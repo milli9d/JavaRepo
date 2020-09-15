@@ -1,4 +1,4 @@
-### SwingUI WebSockets Server/Client Model for JDBC/SQLite in Java
+# SwingUI WebSockets Server/Client Model for JDBC/SQLite in Java
 ## This applet is a model of how communications can be done over WebsSockets service. 
 ---
 ### Salient Features
