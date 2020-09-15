@@ -2,7 +2,7 @@
 ### This applet is a model of how communications can be done over WebsSockets service. 
 ---
 ### Salient Features
-JavaFX Swing UI
+#### JavaFX Swing UI
 : UI is implemented using
 
 This application was submitted as a Capstone Project for CS-9053 Intro To Java at NYU and recieved a perfect score.
