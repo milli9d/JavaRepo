@@ -12,13 +12,15 @@
              Data Ready -> Connection Open -> Handshake Successful -> Data Sent -> Close Connection 
 
 4. Partial DBMS support
-: Implements some functionality of SQLite DBMS 
+: Implements some functionality of SQLite DBMS , on the flipside , SQLite is a dependency
+   1. Client Side
+   :  Add Entry , Clear(purge) DB , Query all DB Data
+   2. Server Side 
+   : Clear DB , Query All DB Data
+ 
+5. Read-Only Console
+: Both Server and Client implements a built-in Read-Only Console to give easy interface to the system , Console displays current instruction process and status. 
 
-
-     1. Client Side
-     :  Add Entry , Clear(purge) DB , Query all DB Data
-     2. Server Side 
-     : Clear DB , Query All DB Data
   
 ---
 This application was submitted as a Capstone Project for CS-9053 Intro To Java at NYU and recieved a perfect score.
