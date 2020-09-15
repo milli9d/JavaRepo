@@ -13,9 +13,10 @@
 
 4. Parial DBMS support
 : Implements some functionality of SQLite DBMS 
-  ..- Client Side
+  
+  - Client Side
   :  Add Entry , Clear(purge) DB , Query all DB Data
-  ..- Server Side 
+  - Server Side 
   : Clear DB , Query All DB Data
   
 ---
