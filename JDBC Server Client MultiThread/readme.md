@@ -14,6 +14,7 @@
 4. Partial DBMS support
 : Implements some functionality of SQLite DBMS 
 
+
 1. Client Side
 :  Add Entry , Clear(purge) DB , Query all DB Data
 2. Server Side 
