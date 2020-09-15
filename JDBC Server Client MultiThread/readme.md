@@ -11,8 +11,9 @@
            
              Data Ready -> Connection Open -> Handshake Successful -> Data Sent -> Close Connection 
 
-4. Parial DBMS support
+4. Partial DBMS support
 : Implements some functionality of SQLite DBMS 
+
 1. Client Side
 :  Add Entry , Clear(purge) DB , Query all DB Data
 2. Server Side 
